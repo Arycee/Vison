@@ -1,4 +1,4 @@
-# Vison Discord Bot - Terms of Service
+# Vison Discord App - Terms of Service
 
 ## Introduction
 

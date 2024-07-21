@@ -1,4 +1,4 @@
-# Vison Discord Bot - Privacy Policy
+# Vison Discord App - Privacy Policy
 
 This document details the privacy policy for the Discord bot "Vison" and its services provided by the developer.
 
@@ -16,7 +16,7 @@ Vison may gather the following information:
 
 The information collected is utilized in the following ways:
 
-- **Service Delivery:** To ensure Vison functions correctly, including managing AFK statuses, sending welcome messages, and enabling other bot features.
+- **Service Delivery:** To ensure Vison functions correctly, including managing AFK statuses, sending welcome messages, and enabling other App features.
 
 - **Enhancements:** To improve Vison's performance, enhance user experience, and develop new features based on usage patterns and user feedback.
 
