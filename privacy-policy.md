@@ -1,43 +1,65 @@
-# Vison Discord App - Privacy Policy
+# Vison Discord App – Privacy Policy
 
-This document details the privacy policy for the Discord bot "Vison" and its services provided by the developer.
+*Last Updated: May 1, 2025*
 
-## Data We Collect
+This document outlines the privacy practices for the **Vison** Discord bot and related services provided by the developer.
 
-Vison may gather the following information:
+---
 
-- **User IDs:** These are used for identifying users uniquely, managing AFK statuses, and saving user preferences.
+##  Data We Collect
 
-- **Server Details:** Information such as server ID, server name, and member lists is collected for functionalities like welcome messages, automoderation settings, and other server-specific features.
+**Vison** may collect the following types of information:
 
-- **Usage Metrics:** We collect data on how Vison is used, including command execution, message logs, and user interactions within Discord servers.
+* **User IDs**: Used to uniquely identify users for features like AFK tracking, reminders, and preference storage.
+* **Server Details**: Includes server ID, server name, and member lists for enabling server-specific functionalities such as welcome messages, moderation settings, and custom configurations.
+* **Usage Metrics**: Data on command usage, interaction history, and limited message logs for AI replies, moderation actions, and feature improvement.
 
-## How We Use Your Information
+---
 
-The information collected is utilized in the following ways:
+##  How We Use Your Information
 
-- **Service Delivery:** To ensure Vison functions correctly, including managing AFK statuses, sending welcome messages, and enabling other App features.
+The collected data is used for:
 
-- **Enhancements:** To improve Vison's performance, enhance user experience, and develop new features based on usage patterns and user feedback.
+* **Service Delivery**: To ensure all bot features (e.g., AFK system, moderation, welcome messages) work as intended.
+* **Performance Enhancements**: To analyze usage patterns and improve Vison's performance, stability, and features.
+* **Support & Communication**: To respond to inquiries, provide troubleshooting support, and communicate important updates.
 
-- **Support and Communication:** To respond to user inquiries, provide support, and communicate essential updates regarding Vison's services.
+---
 
-## Information Sharing
+##  Information Sharing
 
-We do not share your personal information with third parties unless required by law or with your explicit consent.
+We do **not** share your personal data with third parties except:
 
-## Data Security
+* When required by law
+* With explicit user or server owner consent
 
-We take reasonable measures to protect the information we collect. However, we cannot guarantee complete security of data transmitted over the internet or stored electronically.
+---
 
-## Data Retention
+##  Data Security
 
-We retain user data only as long as necessary to provide our services. Data may be deleted upon user request.
+We implement reasonable security practices to safeguard collected data. However, no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute protection.
 
-## Protection of Minors
+---
 
-Vison is not intended for use by individuals under the age of 13. If you believe a child has provided personal information, please contact us immediately.
+##  Data Retention
 
-## Policy Updates
+We only retain user and server data as long as necessary to provide Vison’s services. Users can request deletion of their data by contacting the support team or removing the bot from their server.
 
-This Privacy Policy may be updated periodically. Any changes will take effect immediately upon posting.
+---
+
+##  Protection of Minors
+
+Vison is not intended for users under the age of 13. If we learn that a user under 13 has submitted personal data, we will promptly delete it. Please contact us if you believe this has occurred.
+
+---
+
+##  Policy Updates
+
+We may occasionally update this Privacy Policy. Changes will be effective immediately upon posting to this URL. We recommend checking this page periodically for any updates.
+
+---
+
+##  Contact
+
+For questions, concerns, or data deletion requests, please contact:
+**[support@visonbot.com](mailto:support@visonbot.com)**
