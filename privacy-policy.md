@@ -119,4 +119,4 @@ Major updates will be communicated through bot announcements and the support ser
 For privacy concerns, questions, or data deletion requests, please visit our official support server:
 **[https://discord.gg/visonx](https://discord.gg/visonx)**
 
-This Privacy Policy is also available via the `/botinfo` or `/privacy` command in the Vison bot.
+This Privacy Policy is also available via the `/privacy` command in the Vison App.
